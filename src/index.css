@@ -37,14 +37,14 @@ span[role="image"] {
   text-shadow: 0 0 0 black;
 }
 
-.App.dark {
+.light.dark {
   --font-color: rgb(255, 255, 255);
   --background: rgb(50, 50, 50);
   --background--light: rgb(80, 80, 80);
   transition: all 0.3s;
 }
 
-.App {
+.light {
   margin: 2rem auto;
   padding: 1rem 2rem;
   max-width: 600px;
